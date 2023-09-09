@@ -1,0 +1,32 @@
+*{
+    font-family: 'Mulish' , sans-serif;
+}
+.container{
+    width: 450px;
+    padding: 22px;
+    margin-left: 30%;
+    margin-top: 3%;
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(193, 118, 230);
+}
+button{
+    width: 130px;
+    height: 38px;
+    background-image:linear-gradient(to right, #ff60a5, #f65c5c) ;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-weight: 400;
+    font-size: 24px;
+}
+button:hover{
+    background-image:linear-gradient(to right, #f51073, #f42020) ;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+}
+img{
+    width: 20%;
+}
